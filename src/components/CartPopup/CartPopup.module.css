@@ -1,0 +1,9 @@
+.popup {
+  min-width: 400px;
+  padding: 8px;
+}
+
+.empty {
+  padding: 20px;
+  text-align: center;
+}

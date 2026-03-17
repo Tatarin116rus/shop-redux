@@ -1,0 +1,31 @@
+.header {
+  position: sticky;
+  top: 50;
+  background-color: white;
+  z-index: 1000;
+  border-bottom: 1px solid;
+}
+.shop, .Vegetable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.shop {
+    background-color: #54B46A;
+    border-radius: 21px;
+    position: relative;
+     width: 80px;
+    height: 33px;
+}
+
+.Vegetable {
+    background-color: #F7F7F7;
+    border-radius: 21px;
+    text-align: center;
+}
+
+.Button {
+  padding: 50px;
+}
